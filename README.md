@@ -2,6 +2,7 @@
 To develop an Android app with Android Studio, to implement monetization strategies and how to publish an app to the Google PlayStore.
 
 ### Prerequisites
+* Android Studio
 * Java 1.8
 
 ### Play now
