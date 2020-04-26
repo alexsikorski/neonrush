@@ -7,5 +7,9 @@ To develop an Android app with Android Studio, to implement monetization strateg
 ### Play now
 Download Neon Rush on [Google PlayStore](https://play.google.com/store/apps/details?id=game.neonrush). 
 
+### Notes
+* Google AdMod utilised - implemention to Android Studio needs to be done if you want to test out the code.
+* Raw sound/image files are also not provided but these are not essential and can be commented out. 
+
 ## Author
 Alex Sikorski
