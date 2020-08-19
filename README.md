@@ -12,5 +12,7 @@ Download Neon Rush on [Google PlayStore](https://play.google.com/store/apps/deta
 * Google AdMod utilised - implemention to Android Studio needs to be done if you want to test out the code.
 * Raw sound/image files are also not provided but these are not essential and can be commented out. 
 
+![Metrics](https://alexsikorski.net/img/dissertation/neon-rush.jpg)
+
 ## Author
 Alex Sikorski
